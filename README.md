@@ -24,3 +24,20 @@ git branch -M main
 git push -u origin main
 ## Így PULL-old amikor más valalki módosította a fájlokat:
 git pull origin main
+
+# Tech stack:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Next.js (npx create-next-app@latest)
+
+## Next.js használata, telepítése (mappa üres legyen ahová telepíteni akarjuk):
+### terminálbe be kell írni: 
+npx create-next-app@latest
+Az elő kérdésre; hová akarod telpíteni? egy darab . kerül
+Utána mindenre enter 
+
+## npm telepítők: 
+### npm install bootstrap@5.3.8
